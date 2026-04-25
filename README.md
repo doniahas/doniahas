@@ -38,7 +38,7 @@ Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook, Excel
 
 ## Selected Projects
 
-### Alert Hub – Microservices Monitoring System
+### Alert Hub – Microservices Monitoring System *(Ongoing)*
 
 A microservices-based monitoring and notification system developed as part of a Java Backend & DevOps program.
 
